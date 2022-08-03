@@ -1,0 +1,23 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria6417/demoapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria6417/demoapp/issues"
+  },
+  "homepage": "https://github.com/maria6417/demoapp#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
